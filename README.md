@@ -13,3 +13,6 @@ Soy un Veterinario con Maestría en Administracion de Negocios, durante mi carre
 ![MacOS](https://img.shields.io/badge/macos-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### Estadísticas de GitHub
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=radical)

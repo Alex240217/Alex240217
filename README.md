@@ -1,8 +1,10 @@
 ## Hola, soy [Alejandro] 👋
 
+Soy un Veterinario con Maestría en Administracion de Negocios, durante mi carrera profesional siempre he ha interesado el bienestar de los animales de compañia tradicionales desde una perspectiva multidisciplinaria, motivo por el cual estudie un MBA, profundicé en la Didáctica y actualmente me encuentro estudiando Ciencia de Datos, ya que considero que esta herramienta tiene un potencial enorme para para abordar los nuevos desafíos respecto a la salud del siglo XXI.    
+
 ### Acerca de mí
 - 🌱 Actualmente estoy aprendiendo Herramientas sobre Ciencia de Datos
-- 🚀 Trabajo en proyectos sobre Machine Learning...
+- 🚀 Trabajo en proyectos sobre Machine Learning, Sustentabilidad, Co-Creación de Valor, Bienestar Animal ...
 - 🔭 Puedes ver mis proyectos en la carpeta de TripleTen...
 
 ### Tecnologías
